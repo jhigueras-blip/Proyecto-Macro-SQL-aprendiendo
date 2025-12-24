@@ -13,4 +13,4 @@ Este proyecto analiza el comportamiento macroeconómico de 10 países durante la
 2.  **Comparativa:** Malasia se perfila como la economía más estable del grupo de estudio.
 
 ## Autor
-[José Tomás Higueras NovalesJ
+[José Tomás Higueras Novales]
