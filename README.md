@@ -1,4 +1,5 @@
 # Proyecto-Macro-SQL-aprendiendo
+*Repositorio y contenido en español / Repository and content in Spanish.*
 Proyecto de análisis Macroeconómico de 10 economías para aprender a usar SQL. 
 
 ## Descripción
